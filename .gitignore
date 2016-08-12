@@ -1,0 +1,8 @@
+*.txt
+*.bak
+.DS_Store
+*.zip
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+!assets/videos/tour_*.mp4
